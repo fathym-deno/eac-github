@@ -1,8 +1,5 @@
 import { EaCDetails } from "./.deps.ts";
-import {
-  EaCGitHubAppDetails,
-  isEaCGitHubAppDetails,
-} from "./EaCGitHubAppDetails.ts";
+import { EaCGitHubAppDetails, isEaCGitHubAppDetails } from "./EaCGitHubAppDetails.ts";
 
 export type EaCGitHubAppAsCode = {
   CloudLookup?: string;
