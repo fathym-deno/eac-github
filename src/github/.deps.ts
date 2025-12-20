@@ -1,4 +1,4 @@
 export {
   type EaCDetails,
   type EaCVertexDetails,
-} from "jsr:@fathym/eac@0.2.237-hmis";
+} from "jsr:@fathym/eac@0.2.238-hmis";
